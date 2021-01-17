@@ -1,5 +1,3 @@
-line <- "Кажется я работаю"
-line
 library(psych)
 library(ggplot2)
 z <- subset(airquality,Month==8)
